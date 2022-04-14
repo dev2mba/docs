@@ -21,7 +21,9 @@ Only the project visibility is affected; to view an item on the project, someone
 
 ![Project with hidden item](/assets/images/help/projects/hidden-items.png)
 
-Only project admins can control project visibility.
+Only project admins can control project visibility.[README.md](https://github.com/github/docs/files/8491818/README.md)
+[README.md](https://github.com/github/docs/files/8491820/README.md)
+
 
 In private, organization-owned projects, the avatars of users who are current making updates to the project are displayed in the project UI.
 
